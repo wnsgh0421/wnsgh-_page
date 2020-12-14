@@ -26,7 +26,7 @@
 [술] and [담배] 진짜 안하니까 언급 ㄴ
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+아무나 들어와서 봐 [바나나맛 우유 맛있음](https://wnsgh0421.github.io/wnsgh-_page/)이거 많이 뿌려.
 
 ### Jekyll Themes
 
