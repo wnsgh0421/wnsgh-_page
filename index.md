@@ -8,12 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 자세한 것은 이링크를 타고 가셔서 보십시오
 
 #   [네이버 바로가기](https://naver.com/) 
 ##  [ 구글 바로가기 ](https://google.com/) 
 ### [유튜브 바로가기](https://youtube.com/) 
+
+```markdown
+
 - Bulleted
 - List
 
