@@ -28,10 +28,6 @@
 
 아무나 들어와서 봐 **[바나나맛 우유 맛있음](https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)** `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
 
-### Jekyll Themes
+### 사이트 홍보
 
-(https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)** `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
