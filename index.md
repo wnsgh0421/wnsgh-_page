@@ -23,7 +23,7 @@
 
 **DSRM** 옷 파는 사이트임 `아직미완성` 많이 오셈
 
-[Link](url) and ![Image](src)
+[술] and [담배] 진짜 안하니까 언급 ㄴ
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
