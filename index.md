@@ -11,10 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 자세한 것은 이링크를 타고 가셔서 보십시오
 
-# <a href="https://google.co.kr/">구글</a>
-## <a href="https://naver.com/">네이버</a>
-### <a href="https://youtube.com/">유튜브</a>
-
+#   [네이버 바로가기](https://naver.com/) 
+##  [ 구글 바로가기 ](https://google.com/) 
+### [유튜브 바로가기](https://youtube.com/) 
 - Bulleted
 - List
 
