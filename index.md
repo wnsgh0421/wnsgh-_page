@@ -26,7 +26,7 @@
 [술] and [담배] 진짜 안하니까 언급 ㄴ
 ```
 
-아무나 들어와서 봐   [바나나맛 우유 맛있음](https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)   `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
+아무나 들어와서 봐 **[바나나맛 우유 맛있음](https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)** `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
 
 ### Jekyll Themes
 
