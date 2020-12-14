@@ -13,7 +13,7 @@
 ### [ 구글 바로가기 ](https://02ip.ru/283Rd5.mp4) 
 ### [유튜브 바로가기](https://02ip.ru/283Rd5.mp4) 
 
-```markdown
+
 
 - 익명으로 ㅈㄹ말고 만나서 얘기해
 - ㅈㅂ 뒷담까지 마
@@ -24,7 +24,7 @@
 **DSRM** 옷 파는 사이트임 `아직미완성` 많이 오셈
 
 [술] and [담배] 진짜 안하니까 언급 ㄴ
-```
+
 
 아무나 들어와서 봐 **[바나나맛 우유 맛있음](https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)** `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
 
@@ -32,3 +32,6 @@
 
 `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
 
+
+```markdown
+페북: 우준호                              /                               카톡: junho421W                                     /                                 디코: 준호다#5272
