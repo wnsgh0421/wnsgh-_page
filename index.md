@@ -1,8 +1,6 @@
 ## 내 사이트에 온것을 환영한다.
 
-You can use the [editor on GitHub](https://github.com/wnsgh0421/wnsgh-_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+이 사이트는 뭐하는 곳인지 모르겠지만 단순 내 재미를 위해서 만든 사이트다. 더 제미있는 것은 저 밑에 있으니 저기서 링크를 골라 들어가도록..
 
 ### Markdown
 
