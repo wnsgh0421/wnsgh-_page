@@ -11,8 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 자세한 것은 이링크를 타고 가셔서 보십시오
 
-#   [네이버 바로가기](https://naver.com/) 
-##  [ 구글 바로가기 ](https://google.com/) 
+#   편한앱으로 링크 타고 들어가기
+
+### [네이버 바로가기](https://naver.com/) 
+### [ 구글 바로가기 ](https://google.com/) 
 ### [유튜브 바로가기](https://youtube.com/) 
 
 ```markdown
