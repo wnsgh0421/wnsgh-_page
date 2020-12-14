@@ -30,7 +30,7 @@
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wnsgh0421/wnsgh-_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(https://upload3.inven.co.kr/upload/2020/06/02/bbs/i15981750555.jpg)** `(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
 
 ### Support or Contact
 
