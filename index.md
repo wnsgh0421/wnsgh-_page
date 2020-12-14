@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 내 사이트에 온것을 환영한다.
 
 You can use the [editor on GitHub](https://github.com/wnsgh0421/wnsgh-_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,11 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+자세한 것은 이링크를 타고 가셔서 보십시오
 
-# Header 1
-## Header 2
-### Header 3
+# 구글
+## 네이버
+### 인터넷
 
 - Bulleted
 - List
