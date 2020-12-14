@@ -21,7 +21,7 @@
 1. 10417
 2. 070421
 
-**Bold** and _Italic_ and `Code` text
+**DSRM** 옷 파는 사이트임 `아직미완성` 많이 오셈
 
 [Link](url) and ![Image](src)
 ```
