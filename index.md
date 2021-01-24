@@ -19,18 +19,18 @@
 [쿠키런 바로가기](https://nefing.com/7700b47)
 
 ### [클릭]↓
-[파고다 할인혜택](https://nefing.com/89c2f81)
+[공신닷컴 학습진단 무료혜택](https://nefing.com/4dbfe54)
 
 [공신닷컴 무료혜택](https://nefing.com/7ac3864)
 
-[Seezn 무료혜택](https://nefing.com/70d7f70)
+[갤럭시노트20 재고정리](https://nefing.com/66c0fa0)
 
 [갤럭시S21 무료혜택](https://nefing.com/8bb73a8)
 
 
 ### 사이트 홍보
 
-`(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려.
+`(https://wnsgh0421.github.io/wnsgh-_page/)`이거 많이 뿌려줘.
 
 
-`페북: 우준호                   /                   카톡: junho421W                        /                    디코: 준호다#5272`
+`페북: 우준호                   /                   카톡: junho421W                        /                    디코: 준호#5272`
